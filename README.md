@@ -4,4 +4,4 @@ SET UP:
 3. go in my_sql_connectio and eddit your data (Line 20-21 and 34-35) , the DHT11 can read the temperatur and the humidity
 4. start the main.py
 5. if there is a permission error, make sure that you closed the Arduino IDE
-6. 
+If you need help add me on DC: Andrew Late#6687
